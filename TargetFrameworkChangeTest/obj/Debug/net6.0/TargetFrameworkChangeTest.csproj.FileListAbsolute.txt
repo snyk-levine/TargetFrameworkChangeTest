@@ -1,0 +1,15 @@
+C:\Users\stace\source\repos\TargetFrameworkChangeTest\TargetFrameworkChangeTest\bin\Debug\net6.0\TargetFrameworkChangeTest.exe
+C:\Users\stace\source\repos\TargetFrameworkChangeTest\TargetFrameworkChangeTest\bin\Debug\net6.0\TargetFrameworkChangeTest.deps.json
+C:\Users\stace\source\repos\TargetFrameworkChangeTest\TargetFrameworkChangeTest\bin\Debug\net6.0\TargetFrameworkChangeTest.runtimeconfig.json
+C:\Users\stace\source\repos\TargetFrameworkChangeTest\TargetFrameworkChangeTest\bin\Debug\net6.0\TargetFrameworkChangeTest.dll
+C:\Users\stace\source\repos\TargetFrameworkChangeTest\TargetFrameworkChangeTest\bin\Debug\net6.0\TargetFrameworkChangeTest.pdb
+C:\Users\stace\source\repos\TargetFrameworkChangeTest\TargetFrameworkChangeTest\obj\Debug\net6.0\TargetFrameworkChangeTest.csproj.AssemblyReference.cache
+C:\Users\stace\source\repos\TargetFrameworkChangeTest\TargetFrameworkChangeTest\obj\Debug\net6.0\TargetFrameworkChangeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stace\source\repos\TargetFrameworkChangeTest\TargetFrameworkChangeTest\obj\Debug\net6.0\TargetFrameworkChangeTest.AssemblyInfoInputs.cache
+C:\Users\stace\source\repos\TargetFrameworkChangeTest\TargetFrameworkChangeTest\obj\Debug\net6.0\TargetFrameworkChangeTest.AssemblyInfo.cs
+C:\Users\stace\source\repos\TargetFrameworkChangeTest\TargetFrameworkChangeTest\obj\Debug\net6.0\TargetFrameworkChangeTest.csproj.CoreCompileInputs.cache
+C:\Users\stace\source\repos\TargetFrameworkChangeTest\TargetFrameworkChangeTest\obj\Debug\net6.0\TargetFrameworkChangeTest.dll
+C:\Users\stace\source\repos\TargetFrameworkChangeTest\TargetFrameworkChangeTest\obj\Debug\net6.0\refint\TargetFrameworkChangeTest.dll
+C:\Users\stace\source\repos\TargetFrameworkChangeTest\TargetFrameworkChangeTest\obj\Debug\net6.0\TargetFrameworkChangeTest.pdb
+C:\Users\stace\source\repos\TargetFrameworkChangeTest\TargetFrameworkChangeTest\obj\Debug\net6.0\TargetFrameworkChangeTest.genruntimeconfig.cache
+C:\Users\stace\source\repos\TargetFrameworkChangeTest\TargetFrameworkChangeTest\obj\Debug\net6.0\ref\TargetFrameworkChangeTest.dll
